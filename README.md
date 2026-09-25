@@ -19,3 +19,5 @@ The purpose of this audit is to evaluate the organization's current security pos
 - Control Selection
 - Professional Reporting
 - Cybersecurity Documentation
+
+View my **[security audit](https://github.com/amendez136/Cybersecurity-Audit/blob/main/security%20audit.pdf)** by clicking this link.
