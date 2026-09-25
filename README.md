@@ -1,6 +1,8 @@
 # Cybersecurity Audit
 Completed a security audit completed as part of the Google Cybersecurity Professional Certificate program. This project demonstrates my ability to perform a structed security audit, evaluate risks, and produce actionable recommendations aligned with industry frameworks.
 
+You can view my **[security audit](https://github.com/amendez136/Cybersecurity-Audit/blob/main/security%20audit.pdf)** by clicking this link.
+
 ## Project Summary
 The audit focuses on an toy company that's quickly growing and expanding it's online presence. The organization is heading it's focus to handling customer payment data, and getting ready to comply with international regulations as the organization expands into new markets.
 
@@ -19,5 +21,3 @@ The purpose of this audit is to evaluate the organization's current security pos
 - Control Selection
 - Professional Reporting
 - Cybersecurity Documentation
-
-View my **[security audit](https://github.com/amendez136/Cybersecurity-Audit/blob/main/security%20audit.pdf)** by clicking this link.
